@@ -2,12 +2,12 @@
 Case Study Project
 
 
-Project Overview
+*Project Overview*
 
 This project focuses on analyzing historical transactional data from Bright Coffee Shop to generate business insights for a new CEO. The goal is to understand sales performance, identify trends, and provide recommendations to improve revenue and product performance.
 
 
-Objectives
+*Objectives*
 
 The main objectives of this project are:
 

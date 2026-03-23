@@ -11,7 +11,7 @@ Objectives
 
 The main objectives of this project are:
 
-Identify which products generate the most revenue
-Determine peak sales times during the day
-Analyze sales trends across products and time intervals
+Identify which products generate the most revenue,
+Determine peak sales times during the day,
+Analyze sales trends across products and time intervals,
 Provide data-driven recommendations to improve business performance
